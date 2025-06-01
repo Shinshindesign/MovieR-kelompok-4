@@ -356,7 +356,7 @@ body {
             <p>Sinopsis: Onward menceritakan petualangan Ian dan Barley Lightfoot bersaudara menghidupkan kembali sisa-sisa keajaiban magis yang habis dimakan waktu dan perkembangan teknologi. petualangan dimulai ketika Ian berulang tahun ke-16 dan mendapatkan sebuah hadiah tongkat ajaib sang ayah.</p>
             <p>Sutradara: Dan Scanlon</p>
             <p>Pemeran: Tom Holland (Ian Lightfoot), Chris Pratt (Barley Lightfoot), Octavia Spencer (Die Manticore), Mel Rodriguez (Colt Bronto)</p>
-            <a href="https://youtu.be/gn5QmllRCn4?si=viVRksZylEisW7ma">Lihat Trailer</a>
+            <iframe src="https://www.youtube.com/embed/F4u4secqtWI" frameborder="0" allowfullscreen></iframe>
         <button onclick="sembunyikanDetail(this)">Tutup</button>
     </div>
 </div>
@@ -392,7 +392,7 @@ body {
                 <p>Sinopsis: Suster Junia dari Orde Pembebasan dikenal sebagai biarawati yang memiliki kemampuan eksorsisme yang manjur. Meskipun, murid dari Pastor Kim tersebut memiliki caranya sendiri dalam mengusir roh jahat dan demon yang merasuki seseorang. Hingga suatu kali, Suster Junia mendapati kasus kesurupan yang terjadi pada seorang remaja laki-laki bernama Hee-joon. Ia kerap kerasukan tapi tak ada rohaniawan yang sanggup menanganinya.</p>
                 <p>Sutradara: Kwon Hyeok-jae</p>
                 <p>Pemeran: Song Hye-kyo (Suster Junia), Moon Woo-jin (Hee-joon), Lee Jin-wook (Pator Paulo), Jeon Yeo-bin (Suster Michaela)</p>
-                <a href="https://youtu.be/xAdUdi1JJ4w?si=EaTtiVvYimVtT_cf">Lihat Trailer</a>
+                <iframe src="https://www.youtube.com/embed/hJT_zC94TjI" frameborder="0" allowfullscreen></iframe>
             <button onclick="sembunyikanDetail(this)">Tutup</button>
     </div>
 </div>
@@ -409,7 +409,7 @@ body {
                 <p>Sinopsis: Sebuah tim penjelajah antar galaksi harus melewati lubang cacing dan terjebak di dimensi waktu ruang angkasa dalam upya untuk menjamin kelangsungan hidup umat manusia di Bumi.</p>
                 <p>Sutradara: Christoper Nolan</p>
                 <p>Pemeran: Matthew McConaughey (Cooper), Jessica Chastain (Murphy Cooper), Timothee Chalamet (Tom), Michael Caine (Professor Brand)</p>
-                <a href="https://youtu.be/zSWdZVtXT7E?si=WlpxXWuncqPMkq4C">Lihat Trailer</a>
+                <iframe src="https://www.youtube.com/embed/zSWdZVtXT7E" frameborder="0" allowfullscreen></iframe>
             <button onclick="sembunyikanDetail(this)">Tutup</button>
     </div>
 </div>
@@ -428,7 +428,7 @@ body {
                     Dalam perjalanan mereka, Suzume bertemu berbagai orang dan menghadapi tantangan. Ia juga mulai memahami misteri di balik pintu-pintu tersebut, yang ternyata terhubung dengan trauma masa lalunya akibat gempa bumi dan kehilangan ibunya. Perjalanan ini menjadi petualangan untuk menyelamatkan Jepang sekaligus perjalanan penyembuhan emosional bagi Suzume. </p>
                 <p>Sutradara: Makoto Shinka</p>
                 <p>Pemeran: Nanoka Hara (Suzume Iwato), Hokuto Matsumura (Souta Matsumura), Ryunosuke Kamiki (Tomoyama Serizawa)</p>
-                <a href="https://youtu.be/5pTcio2hTSw?si=ZPqRf1r12r8ruTa5">Lihat Trailer</a>
+                <iframe src="https://www.youtube.com/embed/F7nQ0VUAOXg" frameborder="0" allowfullscreen></iframe>
             <button onclick="sembunyikanDetail(this)">Tutup</button>
     </div>
 </div>
@@ -445,7 +445,7 @@ body {
                 <p>Sinopsis: "IT" menceritakan teror yang menghantui kota Derry melalui sesosok badut jahat dan mengerikan bernama Pennywise. Pennywise muncul setiap 27 tahun sekali untuk memangsa anak-anak, memanfaatkan ketakutan terbesar mereka untuk meneror dan membunuh. Ketika sejumlah anak menghilang secara misterius di musim panas tahun 1988, sekelompok anak-anak buangan yang menyebut diri mereka "The Losers' Club" bersatu untuk menghadapi teror yang menghantui kota mereka dan berusaha mengalahkan Pennywise. Mereka harus mengatasi ketakutan pribadi mereka untuk melawan entitas jahat yang mengancam nyawa mereka </p>
                 <p>Sutradara: Andy Muschietti</p>
                 <p>Pemeran: Jaeden Martell (SBill Denbrough), Bill Skarsgard (Pennywise), Jeremy Ray Taylor (Ben Hanscom), Sophia Lillis (Beverly Marsh), Finn Wolfhard (Richie Tozier) </p>
-                <a href="https://youtu.be/xKJmEC5ieOk?si=2IQ4XKbjlv3PG3BS">Lihat Trailer</a>
+                <iframe src="https://www.youtube.com/embed/FnCdOQsX5kc" frameborder="0" allowfullscreen></iframe>
             <button onclick="sembunyikanDetail(this)">Tutup</button>
     </div>
 </div>
@@ -462,7 +462,7 @@ body {
                 <p>Sinopsis: NCT DREAM Mystery Lab: DREAM()SCAPE mengajak penonton menjelajahi Mytery Lab, sebuah laboratorium tempat rahasia pertumbuhan dan mimpi-mimpi besar diungkap. Film ini menampilkan aksi panggung spektakuler NCT Dream dari Gocheok Sky Dome, Seoul.</p>
                 <p>Sutradara: SM Entertainment</p>
                 <p>Pemeran: Lee Mark, Huang Renjun, Lee Jeno, lee Haechan, Na Jaemin, Zhong Chenle, Park Jisung</p>
-                <a href="https://youtu.be/xI3GmPokXt8?si=P6vpc70j12KwBID4">Lihat Trailer</a>
+                <iframe src="https://www.youtube.com/embed/xI3GmPokXt8" frameborder="0" allowfullscreen></iframe>
             <button onclick="sembunyikanDetail(this)">Tutup</button>
     </div>
 </div>
@@ -479,7 +479,7 @@ body {
                 <p>Sinopsis: Sebuah drama percintaan yang didasarkan dari kisah terkenal Shakespeare, yang diperbarui lebih modern dan mempertahankan dialog aslinya, yang digambarkan sebagai pertikaian antar kerajaan bisnis.</p>
                 <p>Sutradara: Baz Luhrmann</p>
                 <p>Pemeran: Leonardo Dicaprio (Romeo), Claire Danes (Julia), John Leguizamo (Tybalt)</p>
-                <a href="https://youtu.be/8VOAxzgq42A?si=rw07bi1wkJgYxqaZ">Lihat Trailer</a>
+                <iframe src="https://www.youtube.com/embed/8VOAxzgq42A" frameborder="0" allowfullscreen></iframe>
             <button onclick="sembunyikanDetail(this)">Tutup</button>
     </div>
 </div>
@@ -496,7 +496,7 @@ body {
                 <p>Sinopsis: The Greatest Showman mengisahkan P.T. Barnum, dari pria miskin menjadi pendiri sirkus terkenal Barnum & Bailey. Ia mengumpulkan orang-orang unik untuk pertunjukannya, menghadapi kritik dan prasangka. Film ini juga menyoroti hubungan cinta beda kelas dan ras di tengah gemerlap dunia sirkus. Barnum mengejar pengakuan dari kalangan atas, yang justru mengancam hubungannya dengan orang-orang terdekatnya.</p>
                 <p>Sutradara: Michael Gracey</p>
                 <p>Pemeran: Hugh Jackman (P.T Barnum), Zac Efron (Phillip Carlylr), Zendaya (Anne Wheeler), Michelle William (Charity Barnum)</p>
-                <a href="https://youtu.be/EodWwczRIe4?si=oqLOkUX0SO8xJT-1">Lihat Trailer</a>
+                <iframe src="https://www.youtube.com/embed/EodWwczRIe4" frameborder="0" allowfullscreen></iframe>
             <button onclick="sembunyikanDetail(this)">Tutup</button>
     </div>
 </div>
@@ -513,7 +513,7 @@ body {
                 <p>Sinopsis: Don, seorang anak laki - laki yang berusaha membuat pertunjukan buku dongeng peninggalan Ayah dan Ibunya. Sayangnya, ada yang mengejek dan meremehkan mimpi Don. Termasuk salah satu temannya, Atta, yang mencuri buku dongeng Don. Untungnya, Don selalu punya Oma dan sahabatnya, Nurman dan Mae yang selalu ada. Mereka pun bertemu dengan Meri, seorang anak perempuan dari dunia lain yang berusaha untuk mencari kedua orang tuanya. Tak sedikit hambatan yang datang. Akan kah mereka berhasil mencapai tujuannya masing - masing?</p>
                 <p>Sutradara: Ryan Adriandhy</p>
                 <p>Pemeran: Prince Poetiray (Don), Yusuf Ozkan (Nurman), Graciella Abigail (Mae), Quinn Salman (Meri), Bunga Citra Lestari (Ibu Don), Angga Yunanda (Acil), Muhammad Adhiyat (Atta)</p>
-                <a href="https://youtu.be/YW3sQ16oksY?si=mh5ONlpUAQTqIPTA">Lihat Trailer</a>
+                <iframe src="https://www.youtube.com/embed/yMqDgbZmBdk" frameborder="0" allowfullscreen></iframe>
             <button onclick="sembunyikanDetail(this)">Tutup</button>
     </div>
 </div>
@@ -530,7 +530,7 @@ body {
             <p>Sinopsis: Godzilla vs. Kong mempertemukan dua Titan terkuat. Kong, dipindahkan dari Skull Island untuk mencari sumber energi di Hollow Earth oleh Apex Cybernetics yang berharap menggunakannya melawan Godzilla yang tiba-tiba agresif. Di tengah perjalanan, keduanya bentrok di laut. Sementara itu, sebuah tim mencurigai Apex dan menemukan rencana jahat mereka: Mechagodzilla, monster mekanik dikendalikan sisa otak King Ghidorah. Pertarungan puncak terjadi di Hong Kong, memaksa Godzilla dan Kong untuk bersekutu melawan Mechagodzilla. Setelah menang, Godzilla kembali ke laut dan Kong ke Hollow Earth, menciptakan keseimbangan baru.</p>
             <p>Sutradara: Adam Wingard</p>
             <p>Pemeran: Alexander Skarsgard (Dr. Nathan Lind), Millie Bobby Brown (Madison Russell), Rebecca Hall (Dr. Ilene Andrews), Kaylee Hottle (Jia), Brian Tyree Henry (Bernie Hayes), Shun Oguri (Ren Serizawa)</p>
-            <a href="https://youtu.be/odM92ap8_c0?si=e6wTTqBxetKNsfi9">Lihat Trailer</a>
+            <iframe src="https://www.youtube.com/embed/odM92ap8_c0" frameborder="0" allowfullscreen></iframe>
         <button onclick="sembunyikanDetail(this)">Tutup</button>
     </div>
 </div>
@@ -547,7 +547,7 @@ body {
                 <p>Sinopsis: Film bencana fiksi ilmiah ini menggambarkan dampak katastropik dari perubahan iklim ekstrem yang memicu serangkaian bencana alam dahsyat, termasuk badai super yang menyebabkan pendinginan global secara tiba-tiba dan mengarah pada zaman es baru. Seorang ahli paleoklimatologi, Jack Hall, berusaha menyelamatkan putranya, Sam, yang terjebak di New York City yang membeku.</p>
                 <p>Sutradara: Roland Emmerich</p>
                 <p>Pemeran: Dennis Quaid (Professor Jack Hall), Jake Gyllenhaal (Sam Hall), Emmy Rossum (Laura Chapman), Sela Word (Dr. Lucy Hall), Ian Holm (Terry Rapson)</p>
-                <a href="https://youtu.be/Ku_IseK3xTc?si=KDjtypJHpnK6w49h">Lihat Trailer</a>
+                <iframe src="https://www.youtube.com/embed/Ku_IseK3xTc" frameborder="0" allowfullscreen></iframe>
             <button onclick="sembunyikanDetail(this)">Tutup</button>
     </div>
 </div>
@@ -562,13 +562,11 @@ body {
         <button onclick="tampilkanInfo(this)">Pelajari lebih lanjut</button>
             <div class="film-detail" style="display: none;">
                 <p>Sinopsis: Sinopsis film *Exhuma* (2024) berkisah tentang serangkaian kejadian supranatural aneh yang menimpa sebuah keluarga kaya di Los Angeles. Mereka kemudian menghubungi dua dukun muda terkenal, Hwa-rim (Kim Go-eun) dan Bong-gil (Lee Do-hyun), untuk membantu mengatasi masalah tersebut.
-
                     Setelah melakukan penyelidikan, Hwa-rim menyadari bahwa kejadian-kejadian ini terkait dengan arwah leluhur keluarga tersebut. Ia kemudian meminta bantuan dari seorang ahli Feng Shui terkemuka bernama Sang-deok (Choi Min-sik) dan seorang petugas pemakaman bernama Yeong-geun (Yoo Hae-jin).
-                    
                     Bersama-sama, mereka melacak keberadaan makam leluhur keluarga itu di sebuah desa terpencil di Korea Selatan. Mereka memutuskan untuk menggali kuburan tersebut dengan harapan dapat menghentikan teror yang menghantui keluarga kaya itu. Namun, tanpa disadari, tindakan mereka justru melepaskan kekuatan jahat yang terpendam di bawah makam tersebut, membawa mereka pada serangkaian peristiwa yang jauh lebih mengerikan dan melibatkan misteri masa lalu yang kelam, termasuk masa pendudukan Jepang di Korea.</p>
                 <p>Sutradara: Jang Jae-hyun</p>
                 <p>Pemeran: Kim Go-eun (Hwa-rim), Lee Do-hyun (Bong-gil), Choi Min-sik (Sang-deok), Yoo Hee-jin (Yeong-geun)</p>
-                <a href="https://youtu.be/xQ2mH3Jp15E?si=j8qWO86lvCUVaQV0">Lihat Trailer</a>
+                <iframe src="https://www.youtube.com/embed/H2O193v3jkM" frameborder="0" allowfullscreen></iframe>
             <button onclick="sembunyikanDetail(this)">Tutup</button>
     </div>
 </div>
@@ -586,7 +584,7 @@ body {
                 <p>Sinopsis: "Cek Toko Sebelah 2" melanjutkan kisah keluarga Koh Afuk setelah toko kelontongnya tutup, fokus pada permasalahan kedua anaknya. Erwin (Ernest Prakarsa) ingin melamar kekasihnya, Natalie, tapi terhalang restu keras dari ibu Natalie yang punya trauma masa lalu. Sementara itu, Yohan (Dion Wiyoko) dan istrinya, Ayu, menghadapi tekanan dari Koh Afuk yang sangat ingin segera punya cucu, meskipun mereka merasa belum siap. Film ini menyajikan drama keluarga yang realistis dengan sentuhan komedi, mengeksplorasi isu restu orang tua dan ekspektasi keluarga.</p>
                 <p>Sutradara: Ernest Prakarsa</p>
                 <p>Pemeran: Ernest Prakarsa (Erwin), Dion Wiyoko (Yohan), Chew Kin Wah (Koh Afuk), Adinia Wirasti (Ayu), Laura Basuki (Natalie), Maya Hasan (Ibu Natalie)</p>
-                <a href="https://youtu.be/gU_PqIRsFLk?si=k0e6MPPK0seR449-">Lihat Trailer</a>
+                <iframe src="https://youtu.be/lq5HdGdvVm4?si=HN4mTe3q4FuyA0By" frameborder="0" allowfullscreen></iframe>
             <button onclick="sembunyikanDetail(this)">Tutup</button>
     </div>
 </div>
@@ -603,7 +601,7 @@ body {
                 <p>Sinopsis: Mr. Bean memenangkan liburan ke Cannes, Prancis, namun perjalanannya berubah jadi petualangan kacau. Ia tak sengaja memisahkan seorang anak, Stepan, dari ayahnya, dan kini harus membawanya kembali. Melintasi Prancis, Bean dan Stepan terlibat dalam serangkaian kesalahpahaman lucu dan kejadian absurd, bahkan tanpa sengaja menjadi bagian dari film yang sedang tayang perdana di Festival Film Cannes. Film ini adalah komedi fisik murni yang menampilkan kekacauan khas Mr. Bean.</p>
                 <p>Sutradara: Steve Bendelack</p>
                 <p>Pemeran: Rowan Atkinson (Mr.Bean), Max Baldry (Stepan Dachevsky), Emma de Caunes (Sabine), Willem Dafoe (Carson Clay)</p>
-                <a href="https://youtu.be/gU_PqIRsFLk?si=k0e6MPPK0seR449-">Lihat Trailer</a>
+                <iframe src="https://www.youtube.com/embed/hSxLUd8aly4" frameborder="0" allowfullscreen></iframe>
             <button onclick="sembunyikanDetail(this)">Tutup</button>
     </div>
 </div>
