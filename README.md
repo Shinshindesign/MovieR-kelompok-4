@@ -339,7 +339,7 @@ body {
             <p>Sinopsis: Bercerita tentang empat sahabat yang mengelola rumah hantu di pasar malam. Namun, usaha mereka tidak berjalan dengan lancar. Mereka mencoba berbagai cara untuk menakuti pengunjung, tetapi malah memakan korban jiwa.</p>
             <p>Sutradara: Muhadkly Acho</p>
             <p>Pemeran: Indra Jegel (Jegel), Boris Bokir (Boris), Oki Rengga, Bene Dion (Bane)</p>
-            <a href="https://youtu.be/y7tZL3zjE_c?si=YUY0uiVSmQf1vecw">Lihat Trailer</a>
+            <iframe src="https://www.youtube.com/embed/0YLSPyGA4h0" frameborder="0" allowfullscreen></iframe>
         <button onclick="sembunyikanDetail(this)">Tutup</button>
     </div>
 </div>
