@@ -622,7 +622,6 @@ body {
         const filmDetail = button.parentElement;
         filmDetail.style.display = "none";
     }
-    // JavaScript sederhana untuk dropdown menu (opsional)
         document.querySelectorAll('.has-dropdown').forEach(item => {
             item.addEventListener('mouseover', () => {
                 item.querySelector('.dropdown-menu').style.display = 'block';
@@ -631,14 +630,10 @@ body {
                 item.querySelector('.dropdown-menu').style.display = 'none';
             });
         });
-
-        // JavaScript sederhana untuk tab (opsional)
         document.querySelectorAll('.tab-button').forEach(button => {
             button.addEventListener('click', () => {
                 document.querySelectorAll('.tab-button').forEach(btn => btn.classList.remove('active'));
                 button.classList.add('active');
-                // Logika untuk menampilkan/menyembunyikan konten tab
-                // Untuk contoh ini, hanya tab LATEST yang ada kontennya.
             });
         });
     </script>
