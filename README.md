@@ -9,9 +9,9 @@
     <style>
 
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Font yang lebih modern */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
     margin: 0;
-    background-color: #f0f2f5; /* Abu-abu terang yang lebih lembut */
+    background-color: #f0f2f5; 
     color: #333;
 }
 
@@ -24,8 +24,8 @@ body {
 /* Header */
 .main-header {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Font yang lebih modern */
-    background-color: #22272e; /* Warna gelap yang lebih dalam dari abu-abu */
-    padding: 30px 0; /* Padding vertikal */
+    background-color: #22272e; 
+    padding: 30px 0; 
     text-align: center;
 }
 
@@ -167,7 +167,6 @@ body {
         header {
             background-color: #434a6e;
             color: white;
-           
             padding: 30px;
             text-align: center;
         }
@@ -615,7 +614,6 @@ body {
             filmDetail.style.display = "none";
         }
     }
-
     function sembunyikanDetail(button) {
         const filmDetail = button.parentElement;
         filmDetail.style.display = "none";
