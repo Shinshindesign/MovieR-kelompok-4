@@ -293,9 +293,6 @@ body {
                         <li><a href="#"></a></li>
                     </ul>
                 </li>
-                </ul>
-        </div>
-    </nav>
 <div class="container">
  <!-- Film 1 -->
  <div class="film-card">
@@ -651,5 +648,4 @@ body {
             });
         });
     </script>
-</body>
-</html>
+
