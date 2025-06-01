@@ -322,7 +322,7 @@ body {
                 <p>Sinopsis: Film "20th Century Girl" mengisahkan tentang Na Bo-ra, seorang siswi SMA berusia 17 tahun pada tahun 1999, yang diminta sahabatnya, Yeon-doo, untuk mengawasi Baek Hyun-jin, pria yang disukai Yeon-doo, saat ia menjalani operasi jantung di Amerika Serikat. Saat Bo-ra menjalankan tugasnya, ia justru terlibat dalam kisah cinta segitiga dengan Hyun-jin dan sahabatnya, Poong Woon-ho. Film ini menggambarkan manis pahitnya cinta pertama, persahabatan, dan kenangan masa muda, serta dampaknya pada kehidupan di masa depan.</p>
                 <p>Sutradara: Bang Woo-ri</p>
                 <p>Pemeran: Byun Woo-soek (Poong Woon-ho), Kim Yoo-jung (Bo-ra), Roh Yoon Soe (Kim Yeon-du), park Jung-woo(Baek Hyun-jin)</p>
-                <a href="https://youtu.be/9E9zuPbF2dg?si=4mXs5O9_t2bKmsSD">Lihat Trailer</a>
+               <iframe src="https://www.youtube.com/embed/1oX9o4X1bJc" frameborder="0" allowfullscreen></iframe>
         <button onclick="sembunyikanDetail(this)">Tutup</button>
     </div>
 </div>
