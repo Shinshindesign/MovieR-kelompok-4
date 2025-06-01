@@ -288,8 +288,6 @@ body {
                         <li><a href="#">Romeo+Juliet</a></li>
                         <li><a href="#"></a></li>
                     </ul>
-                </li>
-                </ul>
 <div class="container">
  <!-- Film 1 -->
  <div class="film-card">
