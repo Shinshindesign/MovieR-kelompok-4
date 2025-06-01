@@ -7,20 +7,17 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>MovieR</title>
     <style>
-
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
     margin: 0;
     background-color: #f0f2f5; 
     color: #333;
 }
-
 .container {
     max-width: 1200px; /* Lebar maksimal konten */
     margin: 0 auto; /* Tengah */
     padding: 0 20px; /* Padding samping */
 }
-
 /* Header */
 .main-header {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Font yang lebih modern */
@@ -28,21 +25,18 @@ body {
     padding: 30px 0; 
     text-align: center;
 }
-
 .main-header h1 {
     color: #ecf0f1; /* Putih terang */
     font-size: 2em; /* Ukuran lebih besar */
     margin: 0;
     letter-spacing: 2px; /* Spasi antar huruf */
 }
-
 /* Navigation */
 .main-nav {
     background-color: #34495e; /* Sedikit lebih terang dari header */
     padding: 2px 0;
     box-shadow: 0 2px 5px rgba(0,0,0,0.2); /* Bayangan lembut */
 }
-
 .main-nav ul {
     list-style: none; /* Hapus bullet point */
     margin: 0;
@@ -50,11 +44,9 @@ body {
     display: flex; /* Jadikan horizontal */
     justify-content: center; /* Pusatkan menu */
 }
-
 .main-nav ul li {
     position: relative;
 }
-
 .main-nav ul li a {
     display: block;
     padding: 10px 25px;
@@ -63,12 +55,10 @@ body {
     font-weight: 600; /* Sedikit tebal */
     transition: background-color 0.3s ease, color 0.3s ease; /* Transisi halus */
 }
-
 .main-nav ul li a:hover {
     background-color: #2980b9; /* Biru terang saat hover */
     color: #fff;
 }
-
 /* Dropdown Menu (Contoh) */
 .dropdown-menu {
     display: none;
@@ -82,7 +72,6 @@ body {
     margin: 0;
     border-radius: 4px;
 }
-
 .dropdown-menu li a {
     color: #ecf0f1;
     padding: 12px 16px;
@@ -90,16 +79,12 @@ body {
     display: block;
     text-align: left;
 }
-
 .dropdown-menu li a:hover {
     background-color: #2980b9;
 }
-
 .has-dropdown:hover .dropdown-menu {
     display: block;
 }
-
-
 /* Konten Utama (Card) */
 .main-content {
     padding: 40px 0;
@@ -108,7 +93,6 @@ body {
     flex-wrap: wrap; /* Agar responsif */
     gap: 30px; /* Jarak antar kartu */
 }
-
 .movie-card {
     background-color: #ffffff; /* Latar belakang putih */
     border-radius: 10px; /* Sudut membulat */
@@ -118,26 +102,22 @@ body {
     text-align: center;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
-
 .movie-card:hover {
     transform: translateY(-5px); /* Sedikit naik saat hover */
     box-shadow: 0 8px 20px rgba(0,0,0,0.15); /* Bayangan lebih kuat saat hover */
 }
-
 .movie-card img {
     width: 100%;
     height: 450px; /* Tinggi gambar film yang konsisten */
     object-fit: cover; /* Pastikan gambar mengisi ruang tanpa distorsi */
     display: block;
 }
-
 .movie-card h2 {
     font-size: 1.5em;
     color: #2c3e50; /* Warna judul kartu */
     margin: 15px 0 10px;
     padding: 0 15px;
 }
-
 /* Responsiveness dasar */
 @media (max-width: 768px) {
     .main-header h1 {
@@ -235,7 +215,6 @@ body {
     </style>
 </head>
 <body>
-
 <header>
     <h1>MovieR</h1>
     <h1>website rekomendasi film</h1>
