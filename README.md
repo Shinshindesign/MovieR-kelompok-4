@@ -339,7 +339,7 @@ body {
 <div class="film-card">
     <div class="film-info">
         <h2>Agak Laen</h2>
-        <img src="Pictures/IMG-20250328-WA0012.jpg" alt="">
+        <img src="Pictures/IMG-20250328-WA0012.jpg" alt="Poster film Agak Laen">
         <p>Genre: Horor, Comedy</p>
         <p>Tahun: 2024</p>
         <p>Rating: 4.4 ⭐⭐⭐⭐</p>
@@ -356,7 +356,7 @@ body {
 <div class="film-card">
     <div class="film-info">
         <h2>Onward</h2>
-        <img src="Pictures/IMG-20250328-WA0014.jpg" alt="">
+        <img src="Pictures/IMG-20250328-WA0014.jpg" alt="Poster film Onward">
         <p>Genre: Petualangan</p>
         <p>Tahun: 2020</p>
         <p>Rating: 4.5 ⭐⭐⭐⭐</p>
@@ -373,7 +373,7 @@ body {
 <div class="film-card">
     <div class="film-info">
         <h2>Ngeri Ngeri Sedap</h2>
-        <img src="Pictures/WhatsApp Image 2025-04-11 at 20.59.17_a69e78aa.jpg" alt="">
+        <img src="Pictures/WhatsApp Image 2025-04-11 at 20.59.17_a69e78aa.jpg" alt="Poster film Ngeri Ngeri Sedap">
         <p>Genre: Komedi, Drama</p>
         <p>Tahun: 2022</p>
         <p>Rating: 4.5 ⭐⭐⭐⭐</p>
@@ -392,7 +392,7 @@ body {
 <div class="film-card">
     <div class="film-info">
         <h2>Dark Nuns</h2>
-        <img src="Pictures/IMG-20250328-WA0015.jpg" alt="">
+        <img src="Pictures/IMG-20250328-WA0015.jpg" alt="Poster film Dark Nuns">
         <p>Genre: Horor, Misteri</p>
         <p>Tahun: 2025</p>
         <p>Rating: 4.0 ⭐⭐⭐⭐</p>
@@ -409,7 +409,7 @@ body {
 <div class="film-card">
     <div class="film-info">
         <h2>Interstellar</h2>
-        <img src="Pictures/IMG-20250328-WA0016.jpg" alt="">
+        <img src="Pictures/IMG-20250328-WA0016.jpg" alt="Poster film Interstellar">
         <p>Genre: Fiksi ilmiah</p>
         <p>Tahun: 2014</p>
         <p>Rating: 4.8 ⭐⭐⭐⭐⭐</p>
@@ -426,7 +426,7 @@ body {
  <div class="film-card">
     <div class="film-info">
         <h2>Suzume</h2>
-        <img src="Pictures/WhatsApp Image 2025-04-12 at 07.49.05_b9e352fb.jpg" alt="">
+        <img src="Pictures/WhatsApp Image 2025-04-12 at 07.49.05_b9e352fb.jpg" alt="Poster film Suzume">
         <p>Genre: Petualangan, Anime</p>
         <p>Tahun: 2022</p>
         <p>Rating: 4.8 ⭐⭐⭐⭐⭐</p>
@@ -445,7 +445,7 @@ body {
  <div class="film-card">
     <div class="film-info">
         <h2>IT</h2>
-        <img src="Pictures/WhatsApp Image 2025-04-12 at 08.00.05_b780cff2.jpg" alt="">
+        <img src="Pictures/WhatsApp Image 2025-04-12 at 08.00.05_b780cff2.jpg" alt="Poster film IT">
         <p>Genre: Horor</p>
         <p>Tahun: 2017</p>
         <p>Rating: 4.5 ⭐⭐⭐⭐</p>
@@ -462,7 +462,7 @@ body {
  <div class="film-card">
     <div class="film-info">
         <h2>7Dream()Scape</h2>
-        <img src="Pictures/IMG-20250328-WA0017.jpg" alt="">
+        <img src="Pictures/IMG-20250328-WA0017.jpg" alt="POster film 7Dream()Scape">
         <p>Genre: Entertainment</p>
         <p>Tahun: 2024</p>
         <p>Rating: 4.7 ⭐⭐⭐⭐⭐</p>
@@ -479,7 +479,7 @@ body {
 <div class="film-card">
     <div class="film-info">
         <h2>Romeo+Juliet</h2>
-        <img src="Pictures/IMG-20250328-WA0018.jpg" alt="">
+        <img src="Pictures/IMG-20250328-WA0018.jpg" alt="Poster film Romeo+Juliet">
         <p>Genre: Roman, Drama</p>
         <p>Tahun: 1996</p>
         <p>Rating: 4.0 ⭐⭐⭐⭐</p>
@@ -496,7 +496,7 @@ body {
 <div class="film-card">
     <div class="film-info">
         <h2>The Greatest Showman</h2>
-        <img src="Pictures/WhatsApp Image 2025-04-11 at 20.59.15_0c1dc1ed.jpg" alt="">
+        <img src="Pictures/WhatsApp Image 2025-04-11 at 20.59.15_0c1dc1ed.jpg" alt="Poster film The Greatest Showman">
         <p>Genre: Musikal, Drama</p>
         <p>Tahun: 2017</p>
         <p>Rating: 4.5 ⭐⭐⭐⭐</p>
@@ -513,7 +513,7 @@ body {
 <div class="film-card">
     <div class="film-info">
         <h2>Jumbo</h2>
-        <img src="Pictures/WhatsApp Image 2025-04-11 at 20.59.15_59298412.jpg" alt="">
+        <img src="Pictures/WhatsApp Image 2025-04-11 at 20.59.15_59298412.jpg" alt="Poster film Jumbo">
         <p>Genre: Petualangan, Animasi</p>
         <p>Tahun: 2025</p>
         <p>Rating: 4.8 ⭐⭐⭐⭐⭐</p>
@@ -530,7 +530,7 @@ body {
 <div class="film-card">
     <div class="film-info">
         <h2>Godzilla vs Kong</h2>
-        <img src="Pictures/WhatsApp Image 2025-04-12 at 12.48.27_74ca172c.jpg" alt="">
+        <img src="Pictures/WhatsApp Image 2025-04-12 at 12.48.27_74ca172c.jpg" alt="Poster film Godzilla vs Kong">
         <p>Genre: laga, Fiksi Ilmiah</p>
         <p>Tahun: 2021</p>
         <p>Rating: 4.2 ⭐⭐⭐⭐</p>
@@ -547,7 +547,7 @@ body {
 <div class="film-card">
     <div class="film-info">
         <h2>The Day After Tomorrow</h2>
-        <img src="Pictures/WhatsApp Image 2025-04-12 at 13.26.05_8a64ec40.jpg" alt="">
+        <img src="Pictures/WhatsApp Image 2025-04-12 at 13.26.05_8a64ec40.jpg" alt="Poster film The Day After Tomorrow">
         <p>Genre: Fiksi Ilmiah, Aksi</p>
         <p>Tahun: 2004</p>
         <p>Rating: 4.5 ⭐⭐⭐⭐</p>
@@ -564,7 +564,7 @@ body {
 <div class="film-card">
     <div class="film-info">
         <h2>Exhuma</h2>
-        <img src="Pictures/WhatsApp Image 2025-05-03 at 19.47.17_79cfcb78.jpg" alt="">
+        <img src="Pictures/WhatsApp Image 2025-05-03 at 19.47.17_79cfcb78.jpg" alt="Poster film Exhuma">
         <p>Genre: Horor, Misteri</p>
         <p>Tahun: 2024</p>
         <p>Rating: 4.5 ⭐⭐⭐⭐</p>
@@ -586,7 +586,7 @@ body {
 <div class="film-card">
     <div class="film-info">
         <h2>Cek Toko Sebelah 2</h2>
-        <img src="Pictures/WhatsApp Image 2025-04-13 at 08.47.29_b63ca0a6.jpg" alt="">
+        <img src="Pictures/WhatsApp Image 2025-04-13 at 08.47.29_b63ca0a6.jpg" alt="Poster film Cek Toko Sebelah">
         <p>Genre: Komedi, Drama</p>
         <p>Tahun: 2022</p>
         <p>Rating: 4.7 ⭐⭐⭐⭐⭐</p>
@@ -603,7 +603,7 @@ body {
 <div class="film-card">
     <div class="film-info">
         <h2>Mr. Bean Holiday</h2>
-        <img src="Pictures/WhatsApp Image 2025-05-29 at 19.57.09_9ce83332.jpg" alt="">
+        <img src="Pictures/WhatsApp Image 2025-05-29 at 19.57.09_9ce83332.jpg" alt="Poster film Mr. Bean Holiday">
         <p>Genre: Komedi</p>
         <p>Tahun: 2007</p>
         <p>Rating: 4.2 ⭐⭐⭐⭐</p>
