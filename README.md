@@ -244,7 +244,6 @@ body {
 
 <nav class="main-nav">
         <div class="container">
-            <ul>
                 <li class="has-dropdown">
                     <a href="#">Aksi / Petualangan ▼</a>
                     <ul class="dropdown-menu">
@@ -259,8 +258,7 @@ body {
                         <li><a href="#">Onward</a></li>
                         <li><a href="#">Jumbo</a></li>
                         <li><a href="#">Suzume</a></li>
-                    </ul>
-                </li>                
+                    </ul>                
                 <li class="has-dropdown">
                     <a href="#">Horror ▼</a>
                     <ul class="dropdown-menu">
@@ -269,7 +267,6 @@ body {
                         <li><a href="#">Exhuma</a></li>
                         <li><a href="#">IT</a></li>
                     </ul>
-                </li>
                 <li class="has-dropdown">
                     <a href="#">Komedi ▼</a>
                     <ul class="dropdown-menu">
@@ -277,14 +274,12 @@ body {
                         <li><a href="#">Cek Toko Sebelah 2</a></li>
                         <li><a href="#">Mr.Bean's Holiday</a></li>
                     </ul>
-                </li>
                 <li class="has-dropdown">
                     <a href="#">Musikal ▼</a>
                     <ul class="dropdown-menu">
                         <li><a href="#">7Dream()Scape</a></li>
                         <li><a href="#">The Greatest Showman</a></li>
                     </ul>
-                </li>
                 <li class="has-dropdown">
                     <a href="#">Romance ▼</a>
                     <ul class="dropdown-menu">
@@ -292,7 +287,6 @@ body {
                         <li><a href="#">Romeo+Juliet</a></li>
                         <li><a href="#"></a></li>
                     </ul>
-                </li>
 <div class="container">
  <!-- Film 1 -->
  <div class="film-card">
