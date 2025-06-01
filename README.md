@@ -375,7 +375,7 @@ body {
                     Namun, sesampainya di rumah, mereka terkejut mengetahui bahwa pertengkaran itu hanya sandiwara. Konflik pun tak terhindarkan antara orang tua yang ingin anak-anaknya mengikuti tradisi dan anak-anak yang memiliki pilihan hidup masing-masing. </p>
             <p>Sutradara: Bene Dion</p>
             <p>Pemeran: Arswendy Bening Swara (Pak Domu), Tika Panggabean (Marlina), Gita Bhebhita (Sarma), Indra Jegel (Sahat), Lolox (Gabe), Boris Bokir (Domu)</p>
-            <a href="https://youtu.be/gU_PqIRsFLk?si=k0e6MPPK0seR449-">Lihat Trailer</a>
+            <iframe src="https://www.youtube.com/embed/gU_PqIRsFLk" frameborder="0" allowfullscreen></iframe>
         <button onclick="sembunyikanDetail(this)">Tutup</button>
     </div>
 </div>
