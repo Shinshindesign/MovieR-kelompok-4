@@ -313,7 +313,7 @@ body {
 <div class="film-card">
     <div class="film-info">
         <h2>20th Century Girl</h2>
-        <img src="pictures/WhatsApp Image 2025-03-28 at 11.54.56_adfe2ef4.jpg". alt="Poster film 20th century Girl">
+        <img src="WhatsApp Image 2025-03-28 at 11.54.56_adfe2ef4.jpg". alt="Poster film 20th century Girl">
         <p>Genre: Drama, Romantis</p>
         <p>Tahun: 2022</p>
         <p>Rating: 4.8 ⭐⭐⭐⭐⭐</p>
