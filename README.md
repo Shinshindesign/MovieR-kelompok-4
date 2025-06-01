@@ -244,7 +244,6 @@ body {
 
 <nav class="main-nav">
         <div class="container">
-          <ul>
                 <li class="has-dropdown">
                     <a href="#">Aksi / Petualangan ▼</a>
                     <ul class="dropdown-menu">
