@@ -305,7 +305,7 @@ body {
         <p>Sutradara: Jake Kasdan</p>
         <p>Pemeran: Dwayne Johsom (Dr. Smolder), Karen Gillian (Ruby), Kevin Hart (Moose), Awkwafina (Ming
             Fleetfoot)</p>
-        <a href="https://youtu.be/rBxcF-r9Ibs?si=t1IhAJyQNeqUZ26C">Lihat Trailer</a>
+          <iframe src="https://youtu.be/rBxcF-r9Ibs" frameborder="0" allowfullscreen></iframe>
         <button onclick="sembunyikanDetail(this)">Tutup</button>
     </div>
 </div>
